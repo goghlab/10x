@@ -5,7 +5,7 @@ export function Header() {
     return (
         <div className="flex items-center justify-center gap-2 border py-4 rounded-t-xl bg-white">
             <img src="/V.png" alt="V Sir" className="w-10 h-10 rounded-full" />
-            <span className="text-lg font-bold">10X超絕游泳極速學習法</span>
+            <span className="text-lg font-bold">10X 海豚學習法</span>
             <Badge variant="blue">Beta</Badge>
         </div>
     )

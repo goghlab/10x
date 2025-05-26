@@ -27,7 +27,7 @@ export function Chat({className}: {className?: string}) {
       </div>
       <div className="text-center mb-4">
         <img src="/pool.png" alt="泳池" className="w-[300px] mx-auto" />
-        <h1 className="text-2xl font-bold mt-4 mb-2 animate-pulse text-blue-600 hover:scale-105 transition-transform duration-300">🔥 10X游泳極速學習法 強勢登場！</h1>
+        <h1 className="text-2xl font-bold mt-4 mb-2 animate-bounce">🔥 10X 海豚學習法 強勢登場！</h1>
         <p className="text-lg text-gray-700">「6個月由怕水變飛魚？我哋10X方法專治游極都唔識！」</p>
       </div>
       <CopilotChat
