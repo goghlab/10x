@@ -1,12 +1,4 @@
-import { Avatar, Format, AvatarSize} from "@leafygreen-ui/avatar";
-import Badge from "@leafygreen-ui/badge";
-
-export function Header() {
-    return (
-        <div className="flex items-center justify-center gap-2 border py-4 rounded-t-xl bg-white">
-            <img src="/V.png" alt="V Sir" className="w-10 h-10 rounded-full" />
-            <span className="text-lg font-bold">10X 海豚學習法</span>
-            <Badge variant="blue">Beta</Badge>
-        </div>
-    )
-}
+<div className="text-center mb-4">
+  <img src="/pool.png" alt="泳池" className="w-[300px] mx-auto" />
+  <p className="text-lg text-gray-700">「6個月由怕水變飛魚？我哋10X方法專治游極都唔識！」</p>
+</div>
